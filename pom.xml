@@ -37,21 +37,4 @@
 		</plugin>
 	</plugins>
 	</build>
-<distributionManagement>
-    <repository>
-        <id>aleesha</id>
-        <name>aleesha-releases</name>
-        <url>http://13.232.2.248:8080/artifactory/muniraja</url>
-    </repository>
-    <snapshotRepository>
-        <id>aleesha</id>
-        <name>aleesha-snapshots</name>
-        <url>http://13.232.2.248:8080/artifactory/muniraja</url>
-    </snapshotRepository>
-</distributionManagement>
-
-
-
-
-
 </project>
